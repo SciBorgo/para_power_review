@@ -1,6 +1,6 @@
 # Important Features of Bench Press Performance in Able-bodied and Para Athletes: A Scoping Review
 
-## Article Abstract
+## Abstract
 **Background** Understanding the features important for performance in non-disabled bench press and Paralympic powerlifting may help inform talent identification and transfer models. The aim of this scoping review was to describe features associated with bench press performance.
 
 **Methods** We conducted a systematic search of three electronic databases (PubMed, SportDiscus and EMBASE) to identify studies involving non-disabled and Para athlete populations that investigated features related to bench press one-repetition maximum (1RM), across six domains. The domains were: anthropometric, body composition, technical, neuromuscular, demographic and disability. Studies using adult participants, with at least six-months of bench press experience, who were able to bench press their body mass were included. Narrative synthesis was used to describe the studies and features associated with bench press 1RM.
