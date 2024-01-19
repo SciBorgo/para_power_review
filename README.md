@@ -12,8 +12,9 @@
 ## Replicate the Analysis
 With the R packages `here`, `readxl`, `janitor`, `dplyr`, `tidyr`, `binom`, `ggplot2`, `ggupset`, `viridis`, `cowplot`, `grid`, and `gridExtra`, the results and figures presented in the scoping review can be replicated using the data files and code stored in this repository.
 
-===
-
+## DOI
 [![DOI](https://zenodo.org/badge/625715931.svg)](https://zenodo.org/doi/10.5281/zenodo.10532751)
+
+## Analytics
 [![Github All Releases](https://img.shields.io/github/downloads/SciBorgo/para_power_review/total.svg)]()
 
