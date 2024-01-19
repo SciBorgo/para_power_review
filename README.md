@@ -10,4 +10,4 @@
 **Conclusion:** The development of bench press talent identification and sport transfer models will require future studies to investigate both non-training and training modifiable features, across multiple domains. Features should be combined using multivariable model approaches, that consider confounding and the potential for modifying effects. Large, longitudinal studies that use information from athlete monitoring databases are needed to better understand the specific features associated with bench press performance, and for the development of talent identification and sport transfer models.
 
 ## Replicate the Analysis
-With the R packages `here`, `readxl`, `janitor`, `dplyr`, `tidyr`, `binom`, `ggplot2`, `ggupset`, `viridis`, `cowplot`, `grid`, and `gridExtra`, the results and figures that support the scoping review can be replicated using the data files and code in this repository.
+With the R packages `here`, `readxl`, `janitor`, `dplyr`, `tidyr`, `binom`, `ggplot2`, `ggupset`, `viridis`, `cowplot`, `grid`, and `gridExtra`, the results and figures presented in the scoping review can be replicated using the data files and code in this repository.
