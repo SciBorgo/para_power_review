@@ -1,0 +1,287 @@
+study_id,checked,Included,sample_size,Sample,factors_explored,factor_for_table,grouping_for_table,var_cat,correlation,r_value,r_ci,r_ci_level,r_ci_lower,r_ci_upper,p_value_correlation_reported,p_value_correlation,scatter_plot,regression,response_distribution,reported_r_squared,r_squared,adjusted_r_squared,p_value_regression_model,group_differences,group_1,group_2,variable_compared,group_mean_difference,group_mean_difference_unit
+7,TRUE,TRUE,36,men,"mass, arm length, biacromial width",,anthropometric,anthropometric,FALSE,,,,,,,,FALSE,TRUE,gaussian,TRUE,,0.64,<0.05,FALSE,,,,,
+12,TRUE,TRUE,12,men,relative load-velocity relationship,load-velocity relationship,technical,technical,FALSE,,,,,,FALSE,,TRUE,TRUE,,TRUE,0.963,,,FALSE,,,,,
+12,TRUE,TRUE,12,women,relative load-velocity relationship,load-velocity relationship,technical,technical,FALSE,,,,,,FALSE,,TRUE,TRUE,,TRUE,0.965,,,FALSE,,,,,
+19,TRUE,TRUE,66,men,"fat free mass, height and fat mass",,body composition,body composition,FALSE,,,,,,,,FALSE,TRUE,,TRUE,0.82,,not reported,,,,,,
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,male 59kg & 74kg weight class,male105kg weight class,1RM:bodyweight ratio,14.6,percentage
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,male 59kg & 74kg weight class,male 120kg weight class,1RM:bodyweight ratio,19.6,percentage
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,male 59kg & 74kg weight class,male 120kg+ weight class,1RM:bodyweight ratio,22.2,percentage
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,female 52kg weight class,female 63kg weight class,1RM:bodyweight ratio,18.5,percentage
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,female 52kg weight class,female 72kg weigth class,1RM:bodyweight ratio,22.7,percentage
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,female 52kg weight class,female 84kg weight class,1RM:bodyweight ratio,27.7,percentage
+20,TRUE,TRUE,,,body mass,body mass,whole body,anthropometric,FALSE,,,,,,,,,FALSE,,,,,,TRUE,female 52kg weight class,female 84kg+ weight class,1RM:bodyweight ratio,41.2,percentage
+21,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,FALSE,,,,,,TRUE,males congenital disability,males acquired disability,absolute strength,25.14,kilograms
+21,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,FALSE,,,,,,TRUE,males congenital disability,males acquired disability,relative strength,0.34,kilograms/body mass
+21,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,FALSE,,,,,,TRUE,females congenital disability,females acquired disability,absolute strength,9.41,kilograms
+21,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,FALSE,,,,,,TRUE,females congenital disability,females acquired disability,relative strength,0.19,kilograms/body mass
+21,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,FALSE,,,,,,TRUE,senior paralympic powerlifters congenital,senior paralympic powerlfiters acquired,percentage of athletes obtaining a world record,40,percentage
+22,TRUE,TRUE,36,men,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.95,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.88,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.87,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.78,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell mean velocity,barbell mean velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.88,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell mean velocity,barbell mean velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.88,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell mean velocity,barbell mean velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.78,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell peak velocity,barbell peak velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.91,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell peak velocity,barbell peak velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.9,,not reported,,,,,,
+23,TRUE,TRUE,17,combined,barbell peak velocity,barbell peak velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,0.83,,not reported,,,,,,
+26,TRUE,TRUE,30,men,"appendicular fat free mass index, whole body fat free mass, upper limb fat free mass, arm cross sectional area",,,body composition,FALSE,,,,,,,,TRUE,TRUE,gaussian,TRUE,,0.83,<0.01,,,,,,
+29,TRUE,TRUE,45,men,movement pattern,movement pattern,technical,technical,FALSE,,,,,,,,,FALSE,,,,,,FALSE,,,,,
+30,TRUE,TRUE,308,combined,"average velocity, sex",,,,FALSE,,,,,,,,FALSE,TRUE,,TRUE,0.84,,<0.001,FALSE,,,,,
+31,TRUE,TRUE,20,men,mean velocity,barbell mean velocity,technical,technical,FALSE,,,,,,,,TRUE,TRUE,,TRUE,0.95,,,,,,,,
+31,TRUE,TRUE,20,men,"mean velocity, total arm length",,,,FALSE,,,,,,,,FALSE,TRUE,,TRUE,,0.96,<0.001,,,,,,
+36,TRUE,TRUE,,females,age,age,demographic,demographic,FALSE,,,,,,,,TRUE,TRUE,,TRUE,0.69,,,,,,,,
+36,TRUE,TRUE,,males,age,age,demographic,demographic,FALSE,,,,,,,,TRUE,TRUE,,TRUE,0.83,,,,,,,,
+37,TRUE,TRUE,118,,age,age,demographic,demographic,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,,,,,
+38,TRUE,TRUE,19,men,impairment type,impairment type,disability,disability,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,spinal cord injury,other deficiencies,1RM,15.85 kg or Cohen's d = 0.96,kg
+39,TRUE,TRUE,24,men,biacromial breadth,biacromial width,trunk,anthropometric,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,200% biacromial breadth,95% biacromial breadth,bench press force,78,Newtons
+39,TRUE,TRUE,24,men,biacromial breadth,biacromial width,trunk,anthropometric,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,200% biacromial breadth,130% biacromial breadth,bench press force,42,Newtons
+39,TRUE,TRUE,24,men,biacromial breadth,biacromial width,trunk,anthropometric,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,200% biacromial breadth,165% biacromial breadth,bench press force,11,Newtons
+39,TRUE,TRUE,24,men,biacromial breadth,biacromial width,trunk,anthropometric,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,200% biacromial breadth,235% biacromial width,bench press force,46,Newtons
+39,TRUE,TRUE,24,men,biacromial breadth,biacromial width,trunk,anthropometric,FALSE,,,,,,,,FALSE,FALSE,,,,,,TRUE,200% biacromial breadth,270% biacromial width,bench press force,75,Newtons
+44,TRUE,TRUE,,,range of motion,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,range of motion males,short stature males,absolute one rep max,53.21100917,kilograms
+44,TRUE,TRUE,,,range of motion,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,range of motion females,short stature females,absolute one rep max,11.00917431,kilograms
+44,TRUE,TRUE,,,range of motion,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,range of motion males,short stature males,relative one rep max,-0.335403727,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,leg length difference males,absolute one rep max,-18.34862385,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,limb deficiency males,absolute one rep max,-31.19266055,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,muscle power males,absolute one rep max,9.174311927,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,range of motion males,absolute one rep max,-58.71559633,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,short stature males,absolute one rep max,-5.504587156,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,limb deficiency males,absolute one rep max,-12.8440367,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,muscle power males,absolute one rep max,27.52293578,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,range of motion males,absolute one rep max,-40.36697248,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,short stature males,absolute one rep max,12.8440367,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency males,muscle power males,absolute one rep max,40.36697248,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency males,range of motion males,absolute one rep max,-27.52293578,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency males,short stature males,absolute one rep max,25.68807339,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia fefemales,leg length difference females,absolute one rep max,-25.68807339,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,limb deficiency females,absolute one rep max,-18.34862385,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,muscle power females,absolute one rep max,-1.834862385,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,range of motion females,absolute one rep max,-18.34862385,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,short stature females,absolute one rep max,-7.339449541,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,limb deficiency females,absolute one rep max,7.339449541,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,muscle power females,absolute one rep max,23.85321101,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,range of motion females,absolute one rep max,7.339449541,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,short stature females,absolute one rep max,18.34862385,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency females,muscle power females,absolute one rep max,16.51376147,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency females,range of motion females,absolute one rep max,0,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency females,short stature females,absolute one rep max,11.00917431,kilograms
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,leg length difference males,relative one rep max,0.130434783,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,limb deficiency males,relative one rep max,-0.167701863,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,muscle power males,relative one rep max,-0.055900621,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,range of motion males,relative one rep max,-0.204968944,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia males,short stature males,relative one rep max,-0.540372671,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,limb deficiency males,relative one rep max,-0.298136646,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,muscle power males,relative one rep max,-0.186335404,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,range of motion males,relative one rep max,-0.335403727,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference males,short stature males,relative one rep max,-0.670807453,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency males,muscle power males,relative one rep max,0.111801242,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency males,range of motion males,relative one rep max,-0.037267081,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency males,short stature males,relative one rep max,-0.372670807,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia fefemales,leg length difference females,relative one rep max,-0.801242236,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,limb deficiency females,relative one rep max,-0.428571429,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,muscle power females,relative one rep max,-0.223602484,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,range of motion females,relative one rep max,-0.316770186,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,ataxia females,short stature females,relative one rep max,-0.689440994,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,limb deficiency females,relative one rep max,0.372670807,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,muscle power females,relative one rep max,0.577639752,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,range of motion females,relative one rep max,0.48447205,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,leg length difference females,short stature females,relative one rep max,0.111801242,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency females,muscle power females,relative one rep max,0.204968944,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency females,range of motion females,relative one rep max,0.111801242,load/kg body mass
+44,TRUE,TRUE,,,impairment severity,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,limb deficiency females,short stature females,relative one rep max,-0.260869565,load/kg body mass
+44,TRUE,TRUE,,,muscle power impairment,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,muscle power males,range of motion males,absolute one rep max,-67.88990826,kilograms
+44,TRUE,TRUE,,,muscle power impairment,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,muscle power males,short stature males,absolute one rep max,-14.67889908,kilograms
+44,TRUE,TRUE,,,muscle power impairment,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,muscle power females,range of motion females,absolute one rep max,-16.51376147,kilograms
+44,TRUE,TRUE,,,muscle power impairment,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,muscle power females,short stature females,absolute one rep max,-5.504587156,kilograms
+44,TRUE,TRUE,,,muscle power impairment,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,muscle power males,range of motion males,relative one rep max,-0.149068323,load/kg body mass
+44,TRUE,TRUE,,,muscle power impairment,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,muscle power males,short stature males,relative one rep max,-0.48447205,load/kg body mass
+44,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,acquired impairment,congenital impairment,absolute one rep max,10.88,kilograms
+44,TRUE,TRUE,,,impairment type,impairment type,disability,disability,FALSE,,,,,,,,,,,,,,,TRUE,acquired impairment,congenital impairment,relative one rep max,0.01,load/kg body mass
+44,TRUE,TRUE,,,sex,sex,demographic,demographic,FALSE,,,,,,,,,,,,,,,TRUE,,,,,
+45,TRUE,TRUE,,,grip width,grip width,technical,technical,FALSE,,,,,,,,,,,,,,,TRUE,self selected grip width,grip width 200%biacromial width,absolute one rep max,4,kilograms
+1,TRUE,TRUE,18,men,maximum cross sectional area of pectoralis major,pectoralis major cross sectional area,trunk,anthropometric,TRUE,0.86,FALSE,,,,TRUE,<0.001,TRUE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,abdomen muscle thickness,abdomen muscle thickness,trunk,anthropometric,TRUE,0.35,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,biceps muscle thickness,biceps muscle thickness,upper limb,anthropometric,TRUE,0.77,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,calf muscle thickness,calf muscle thickness,lower limb,anthropometric,TRUE,0.78,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,chest muscle thickness,chest muscle thickness,trunk,anthropometric,TRUE,0.77,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,forearm muscle thickness,forearm muscle thickness,upper limb,anthropometric,TRUE,0.82,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,hamstrings muscle thickness,hamstrings muscle thickness,lower limb,anthropometric,TRUE,0.69,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,quadriceps muscle thickness,quadriceps muscle thickness,lower limb,anthropometric,TRUE,0.67,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,subscapula muscle thickness,subscapula muscle thickness,trunk,anthropometric,TRUE,0.85,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,tibialis muscle thickness,tibialis anterior muscle thickness,lower limb,anthropometric,TRUE,0.82,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,triceps muscle thickness,triceps muscle thickness,upper limb,anthropometric,TRUE,0.81,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,fat free mass,lean body mass,whole body,body composition,TRUE,0.88,FALSE,,,,TRUE,<0.001,TRUE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,fat free mass to height ratio,lean body mass to height ratio,whole body,body composition,TRUE,0.87,FALSE,,,,TRUE,<0.001,TRUE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,muscle thickness sum of 13 sites,muscle thickness sum of 13 sites,whole body,body composition,TRUE,0.81,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,muscle thickness sum of lower body sites,muscle thickness sum of lower body sites,lower limb,body composition,TRUE,0.79,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+4,TRUE,TRUE,20,men,muscle thickness sum of upper body sites,muscle thickness sum of upper body sites,upper limb,body composition,TRUE,0.85,FALSE,,,,TRUE,<0.01,FALSE,FALSE,,,,,,FALSE,,,,,
+7,TRUE,TRUE,36,men,arm length,arm length,upper limb,anthropometric,TRUE,0.36,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+7,TRUE,TRUE,36,men,biacromial width,biacromial width,trunk,anthropometric,TRUE,0.34,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+7,TRUE,TRUE,36,men,body mass,body mass,whole body,anthropometric,TRUE,0.79,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body mass,body mass,whole body,anthropometric,TRUE,0.8,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,height,height,whole body,anthropometric,TRUE,-0.43,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,mass arms,arms total mass,upper limb,body composition,TRUE,0.77,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat percentage total,body fat percentage,whole body,body composition,TRUE,0.62,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body mass index,body mass index,whole body,body composition,TRUE,0.79,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content arms,bone mineral content arms,upper limb,body composition,TRUE,0.83,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content head,bone mineral content head,trunk,body composition,TRUE,0.38,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content legs,bone mineral content legs,lower limb,body composition,TRUE,0.79,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content pelvis,bone mineral content pelvis,trunk,body composition,TRUE,0.81,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content ribs,bone mineral content ribs,trunk,body composition,TRUE,0.85,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content spine,bone mineral content spine,trunk,body composition,TRUE,0.79,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content total,bone mineral content total,whole body,body composition,TRUE,0.87,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral content trunk,bone mineral content trunk,trunk,body composition,TRUE,0.85,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density arms,bone mineral density arms,upper limb,body composition,TRUE,0.43,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density head,bone mineral density head,trunk,body composition,TRUE,0.06,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density legs,bone mineral density legs,lower limb,body composition,TRUE,0.57,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density pelvis,bone mineral density pelvis,trunk,body composition,TRUE,0.53,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density ribs,bone mineral density ribs,trunk,body composition,TRUE,0.91,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density spine,bone mineral density spine,trunk,body composition,TRUE,0.62,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density total,bone mineral density total,whole body,body composition,TRUE,0.59,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,15,combined,bone mineral density trunk,bone mineral density trunk,trunk,body composition,TRUE,0.79,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat total,fat mass,whole body,body composition,TRUE,0.62,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat trunk,fat mass trunk,trunk,body composition,TRUE,0.65,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,lean body tissue total,lean body mass,whole body,body composition,TRUE,0.77,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,lean body tissue arms,lean body mass arms,upper limb,body composition,TRUE,0.72,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,lean body tissue legs,lean body mass legs,lower limb,body composition,TRUE,0.47,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,lean body tissue trunk,lean body mass trunk,trunk,body composition,TRUE,0.82,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,mass legs,legs total mass,lower limb,body composition,TRUE,0.72,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat percentage legs,lower limb body fat percentage,lower limb,body composition,TRUE,0.38,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat legs,lower limb fat mass,lower limb,body composition,TRUE,0.5,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,relative lean body tissue,percentage lean body tissue,whole body,body composition,TRUE,0.86,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat percentage trunk,trunk body fat percentage,trunk,body composition,TRUE,0.49,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,mass trunk,trunk total mass,trunk,body composition,TRUE,0.83,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat percentage arms,upper limb boy fat percentage,upper limb,body composition,TRUE,0.53,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,body fat arms,upper limb fat mass,upper limb,body composition,TRUE,0.61,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+8,TRUE,TRUE,9,men,age,age,demographic,demographic,TRUE,0.68,FALSE,,,,TRUE,<0.05,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,ankle circumference,ankle circumference,lower limb,anthropometric,TRUE,0.54,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,upper limb length,arm length,upper limb,anthropometric,TRUE,-0.07,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,body mass,body mass,whole body,anthropometric,TRUE,0.74,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,calf circumference,calf circumference,lower limb,anthropometric,TRUE,0.43,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,lower leg circumference,calf circumference,lower limb,anthropometric,TRUE,0.5,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,chest circumference,chest circumference,trunk,anthropometric,TRUE,0.67,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,forearm circumference,forearm circumference,upper limb,anthropometric,TRUE,0.26,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,height,height,whole body,anthropometric,TRUE,0.46,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,hip circumference,hip circumference,trunk,anthropometric,TRUE,0.35,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,neck circumference,neck circumference,trunk,anthropometric,TRUE,0.79,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,thigh circumference,thigh circumference,lower limb,anthropometric,TRUE,0.51,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,thigh circumference,thigh circumference,lower limb,anthropometric,TRUE,0.25,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,upper arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.9,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,upper arm circumference relaxed,upper arm circumference relaxed,upper limb,anthropometric,TRUE,0.87,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,waist circumference,waist circumference,trunk,anthropometric,TRUE,0.79,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,wrist circumference,wrist circumference,upper limb,anthropometric,TRUE,0.78,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,body fat percentage,body fat percentage,whole body,body composition,TRUE,-0.57,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,lean body mass,lean body mass,whole body,body composition,TRUE,0.82,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,lean body mass to height ratio,lean body mass to height ratio,whole body,body composition,TRUE,0.88,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+9,TRUE,TRUE,74,combined,age,age,demographic,demographic,TRUE,-0.18,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+10,TRUE,TRUE,30,combined,relative load-mean propulsive velocity relationship,load-velocity relationship,technical,technical,TRUE,0.99,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+10,TRUE,TRUE,30,combined,relative load-mean velocity relationship,load-velocity relationship,technical,technical,TRUE,1,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,dominant arm length,arm length,upper limb,anthropometric,TRUE,0.07,FALSE,,,,TRUE,0.646,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,non-dominant arm length,arm length,upper limb,anthropometric,TRUE,0.04,FALSE,,,,TRUE,0.778,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,biacromial width,biacromial width,trunk,anthropometric,TRUE,0.01,FALSE,,,,TRUE,0.948,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,body mass,body mass,whole body,anthropometric,TRUE,0.41,FALSE,,,,TRUE,0.009,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,dominant forearm length,forearm length,upper limb,anthropometric,TRUE,0.03,FALSE,,,,TRUE,0.836,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,non-dominant forearm length,forearm length,upper limb,anthropometric,TRUE,0.12,FALSE,,,,TRUE,0.449,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,height,height,whole body,anthropometric,TRUE,-0.05,FALSE,,,,TRUE,0.734,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,hip circumference,hip circumference,trunk,anthropometric,TRUE,0.31,FALSE,,,,TRUE,0.057,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,dominant arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.65,FALSE,,,,TRUE,<0.0001,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,non-dominant arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.69,FALSE,,,,TRUE,<0.0001,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,dominant arm circumference relaxed,upper arm circumference relaxed,upper limb,anthropometric,TRUE,0.54,FALSE,,,,TRUE,<0.0001,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,non-dominant arm circumference relaxed,upper arm circumference relaxed,upper limb,anthropometric,TRUE,0.66,FALSE,,,,TRUE,<0.0001,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,waist circumference,waist circumference,trunk,anthropometric,TRUE,0.01,FALSE,,,,TRUE,0.961,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,body fat percentage,body fat percentage,whole body,body composition,TRUE,0.14,FALSE,,,,TRUE,0.417,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,body mass index,body mass index,whole body,body composition,TRUE,0.46,FALSE,,,,TRUE,0.008,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,body fat (kg),fat mass,whole body,body composition,TRUE,0.24,FALSE,,,,TRUE,0.156,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,lean body mass,lean body mass,whole body,body composition,TRUE,0.39,FALSE,,,,TRUE,0.019,FALSE,FALSE,,,,,,FALSE,,,,,
+14,TRUE,TRUE,52,combined,age,age,demographic,demographic,TRUE,0.35,FALSE,,,,TRUE,0.03,FALSE,FALSE,,,,,,FALSE,,,,,
+14.1,TRUE,TRUE,118,men,arm cross sectional area,arm cross sectional area,upper limb,anthropometric,TRUE,0.98,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,arm length,arm length,upper limb,anthropometric,TRUE,0.5,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,body mass,body mass,whole body,anthropometric,TRUE,0.72,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,height,height,whole body,anthropometric,TRUE,0.42,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.77,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,body fat percentage,body fat percentage,whole body,body composition,TRUE,0.48,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,lean body mass,lean body mass,whole body,body composition,TRUE,0.73,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+14.1,TRUE,TRUE,118,men,age,age,demographic,demographic,TRUE,0,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+17,TRUE,TRUE,9,men,mean barbell propulsive velocity measured during sub-max loads,barbell mean propulsive velocity,technical,technical,TRUE,-0.97,FALSE,,,,TRUE,< .001,TRUE,TRUE,gaussian,TRUE,0.945,,<0.01,,,,,,
+19,TRUE,TRUE,66,men,body mass,body mass,whole body,anthropometric,TRUE,0.43,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+19,TRUE,TRUE,66,men,height,height,whole body,anthropometric,TRUE,0.05,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+19,TRUE,TRUE,66,men,body fat percentage,body fat percentage,whole body,body composition,TRUE,0.19,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+19,TRUE,TRUE,66,men,fat free mass,lean body mass,whole body,body composition,TRUE,0.52,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+19,TRUE,TRUE,66,men,fat mass,fat mass,whole body,body composition,TRUE,0.25,FALSE,,,,TRUE,<0.05,FALSE,,,,,,,,,,,,
+19,TRUE,TRUE,66,men,lean mass,lean body mass,whole body,body composition,TRUE,0.53,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+19,TRUE,TRUE,66,men,age,age,demographic,demographic,TRUE,0.15,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+24,TRUE,TRUE,289,men,body mass,body mass,whole body,anthropometric,TRUE,0.16,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+24,TRUE,TRUE,289,men,height,height,whole body,anthropometric,TRUE,0.53,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+24,TRUE,TRUE,289,men,body mass index,body mass index,whole body,body composition,TRUE,0.58,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+24,TRUE,TRUE,289,men,age,age,demographic,demographic,TRUE,0.35,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+26,TRUE,TRUE,30,men,arm cross sectional area,arm cross sectional area,upper limb,anthropometric,TRUE,0.73,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+26,TRUE,TRUE,30,men,appendicular fat free mass,appendicular lean body mass,whole body,body composition,TRUE,0.83,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+26,TRUE,TRUE,30,men,upper limb fat free mass,upper limb fat free mass,upper limb,body composition,TRUE,0.91,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+26,TRUE,TRUE,30,men,whole body fat free mass,lean body mass,whole body,body composition,TRUE,0.86,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,arm length:height ratio,arm length to height ratio,upper limb,anthropometric,TRUE,-0.31,TRUE,95,-0.74,0.29,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,arm span,arm span,upper limb,anthropometric,TRUE,-0.02,TRUE,95,-0.57,0.54,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,forearm to upperarm length ratio,forearm to upperarm length ratio,upper limb,anthropometric,TRUE,0.6,TRUE,95,0.07,0.87,TRUE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,chest circumference,chest circumference,trunk,anthropometric,TRUE,0.15,TRUE,95,-0.44,0.65,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,chest circumference:height ratio,chest circumference to height ratio,trunk,anthropometric,TRUE,0.32,TRUE,95,-0.28,0.74,TRUE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,anterior-posterior chest depth,chest depth,trunk,anthropometric,TRUE,0.15,TRUE,95,-0.44,0.65,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,forearm circumference,forearm circumference,upper limb,anthropometric,TRUE,0.7,TRUE,95,0.24,0.9,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,iliac to acromial width ratio,iliac to acromial width ratio,trunk,anthropometric,TRUE,-0.2,TRUE,95,-0.68,0.39,TRUE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,triceps cross sectional area,triceps cross sectional area,upper limb,anthropometric,TRUE,0.58,TRUE,95,0.04,0.86,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,triceps fascicle length,triceps fascicle length,upper limb,anthropometric,TRUE,0.27,TRUE,95,-0.33,0.71,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,triceps pennation angle ,triceps pennation angle,upper limb,anthropometric,TRUE,-0.46,TRUE,95,-0.81,0.12,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,flexed upper arm circumference,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.59,TRUE,95,0.06,0.86,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,upper arm circumference,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.58,TRUE,95,0.04,0.86,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,bone mass bioimpedance,bone mass,whole body,body composition,TRUE,0.65,TRUE,95,0.15,0.88,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,fat mass bioimpedance,fat mass,whole body,body composition,TRUE,-0.05,TRUE,95,-0.59,0.52,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,fat mass ultrasound,fat mass,whole body,body composition,TRUE,-0.12,TRUE,95,-0.63,0.46,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,lean body mass bioimpedance,lean body mass,whole body,body composition,TRUE,0.64,TRUE,95,0.14,0.86,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,lean body mass ultrasound,lean body mass,whole body,body composition,TRUE,0.74,TRUE,95,0.32,0.92,TRUE,<0.05,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,anterior deltoid emg activity during isometric bench press MVC,deltoid EMG during bench,upper limb,neuromuscular,TRUE,0.22,TRUE,95,-0.38,0.69,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,latissimus dorsi emg activity during bench press MVC,latissimus dorsi EMG during bench,upper limb,neuromuscular,TRUE,-0.26,TRUE,95,-0.71,0.34,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,pec major emg activity during isometric bench press MVC,pectoralis major EMG during bench,upper limb,neuromuscular,TRUE,-0.09,TRUE,95,-0.61,0.48,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,triceps emg activity during isometric bench press MVC,triceps EMG during bench,upper limb,neuromuscular,TRUE,-0.17,TRUE,95,-0.42,0.66,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,voluntary activation triceps,triceps voluntary activation,upper limb,neuromuscular,TRUE,0.18,TRUE,95,-0.41,0.66,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,elbow flexion angle at sticking point,elbow flexion angle at sticking point,technical,technical,TRUE,-0.4,TRUE,95,-0.78,0.19,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,ground force by the feet per kg body mass,foot ground reaction force during bench press,technical,technical,TRUE,0.12,TRUE,95,-0.46,0.63,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,horizontal bar displacement,horizontal bar displacement,technical,technical,TRUE,0.24,TRUE,95,-0.36,0.7,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,shoulder horizontal adduction angle at sticking point,horizontal shoulder adduction angle at sticking point,technical,technical,TRUE,0.25,TRUE,95,-0.35,0.7,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,lumbar arch height,lumbar arch height,technical,technical,TRUE,0.2,TRUE,95,-0.39,0.68,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,shoulder abduction angle at sticking point,shoulder abduction angle at sticking point,technical,technical,TRUE,0.47,TRUE,95,-0.11,0.81,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,shoulder flexion angle at sticking point,shoulder flexion angle at sticking point,technical,technical,TRUE,0.49,TRUE,95,-0.08,0.82,FALSE,,FALSE,,,,,,,,,,,,
+32,TRUE,TRUE,13,men,vertical bar displacement,vertical bar displacement,technical,technical,TRUE,-0.31,TRUE,95,-0.74,0.23,FALSE,,FALSE,,,,,,,,,,,,
+33,TRUE,TRUE,10,men,mean propulsive velocity recorded during sub max loads in IWBF < 2.5,barbell mean propulsive velocity,technical,technical,TRUE,-0.98,TRUE,90,-0.99,-0.97,TRUE,<0.05,TRUE,,,,,,,,,,,,
+33,TRUE,TRUE,10,men,mean propulsive velocity recorded during sub max loads in IWBF > 2.5,barbell mean propulsive velocity,technical,technical,TRUE,-0.94,TRUE,90,-0.97,-0.91,TRUE,<0.05,TRUE,,,,,,,,,,,,
+33,TRUE,TRUE,10,men,mean propulsive velocity recorded during sub max loads,barbell mean propulsive velocity,technical,technical,TRUE,-0.96,TRUE,90,-0.97,-0.95,TRUE,<0.05,TRUE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,arm cross sectional area,arm cross sectional area,upper limb,anthropometric,TRUE,0.68,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,chest circumference,chest circumference,trunk,anthropometric,TRUE,0.64,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,flexed arm circumference,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.69,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,abdominal skinfold,abdominal skinfold,trunk,body composition,TRUE,0.43,FALSE,,,,TRUE,<0.05,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,body fat percentage,body fat percentage,whole body,body composition,TRUE,0.46,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,fat free mass,lean body mass,whole body,body composition,TRUE,0.49,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,subscapula skinfold,subscapula skinfold,trunk,body composition,TRUE,0.47,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,sum of skinfolds,sum of skinfolds,whole body,body composition,TRUE,0.46,FALSE,,,,TRUE,<0.01,FALSE,,,,,,,,,,,,
+35,TRUE,TRUE,34,men,triceps skinfold,triceps skinfold,upper limb,body composition,TRUE,0.31,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+41,TRUE,TRUE,23,men,body mass,body mass,whole body,anthropometric,TRUE,0.47,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,calf girth,calf circumference,lower limb,anthropometric,TRUE,0.67,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,chest girth,chest circumference,trunk,anthropometric,TRUE,0.45,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,height,height,whole body,anthropometric,TRUE,0.12,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,gluteal girth,hip circumference,trunk,anthropometric,TRUE,0.22,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,midthigh girth,thigh circumference,lower limb,anthropometric,TRUE,0.51,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,flexed arm girth,upper arm circumference flexed,upper limb,anthropometric,TRUE,0.82,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,body fat percentage,body fat percentage,whole body,body composition,TRUE,-0.08,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,fat free mass,lean body mass,whole body,body composition,TRUE,0.57,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+41,TRUE,TRUE,23,men,muscle mass,skeletal muscle mass,whole body,body composition,TRUE,0.59,FALSE,,,,FALSE,,FALSE,FALSE,,,,,,,,,,,
+42,TRUE,TRUE,20,men,absolute skeletal muscle mass,skeletal muscle mass,whole body,body composition,TRUE,0.88,FALSE,,,,TRUE,<0.001,TRUE,FALSE,,,,,,,,,,,
+42,TRUE,TRUE,20,men,skeletal muscle mass to height ratio,skeletal muscle mass to height ratio,whole body,body composition,TRUE,0.87,FALSE,,,,TRUE,<0.001,FALSE,FALSE,,,,,,,,,,,
+43,TRUE,TRUE,21,men,triceps fascicle length,triceps fascicle length,upper limb,anthropometric,TRUE,0.16,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,triceps muscle thickness,triceps muscle thickness,upper limb,anthropometric,TRUE,0.53,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,triceps fascicle angle,triceps pennation angle,upper limb,anthropometric,TRUE,0.41,FALSE,,,,FALSE,,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 100ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.71,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 150ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.66,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 200ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.61,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 250ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.63,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 30ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.49,FALSE,,,,TRUE,<0.05,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 50ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.64,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+43,TRUE,TRUE,21,men,seated isometric shoulder press rfd 80ms,shoulder press rate of force development,upper limb,neuromuscular,TRUE,0.72,FALSE,,,,TRUE,<0.001,FALSE,,,,,,,,,,,,
+20,TRUE,TRUE,,,sex,sex,demographic,demographic,,,,,,,,,,,,,,,,TRUE,males,females,1RM:bodyweight ratio,0.52,1RM/kg

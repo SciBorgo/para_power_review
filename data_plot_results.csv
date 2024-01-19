@@ -1,0 +1,296 @@
+study_id,checked,Included,factors_explored,factor_for_table,grouping_for_table,var_cat
+1,TRUE,TRUE,maximum cross sectional area of pectoralis major,pec major cross sectional area,trunk,anthropometric
+4,TRUE,TRUE,abdomen muscle thickness,abdomen muscle thickness,trunk,anthropometric
+4,TRUE,TRUE,biceps muscle thickness,biceps muscle thickness,upper limb,anthropometric
+4,TRUE,TRUE,calf muscle thickness,calf muscle thickness,lower limb,anthropometric
+4,TRUE,TRUE,chest muscle thickness,chest muscle thickness,trunk,anthropometric
+4,TRUE,TRUE,forearm muscle thickness,forearm muscle thickness,upper limb,anthropometric
+4,TRUE,TRUE,hamstrings muscle thickness,hamstrings muscle thickness,lower limb,anthropometric
+4,TRUE,TRUE,quadriceps muscle thickness,quadriceps muscle thickness,lower limb,anthropometric
+4,TRUE,TRUE,subscapula muscle thickness,subscapula muscle thickness,trunk,anthropometric
+4,TRUE,TRUE,tibialis muscle thickness,tibialis anterior muscle thickness,lower limb,anthropometric
+4,TRUE,TRUE,triceps muscle thickness,triceps muscle thickness,upper limb,anthropometric
+4,TRUE,TRUE,fat free mass,fat free mass,whole body,body composition
+4,TRUE,TRUE,fat free mass to height ratio,fat free mass to height ratio,whole body,body composition
+4,TRUE,TRUE,muscle thickness sum of 13 sites,muscle thickness sum of 13 sites,whole body,body composition
+4,TRUE,TRUE,muscle thickness sum of lower body sites,muscle thickness sum of lower body sites,lower limb,body composition
+4,TRUE,TRUE,muscle thickness sum of upper body sites,muscle thickness sum of upper body sites,upper limb,body composition
+7,TRUE,TRUE,arm length,arm length,upper limb,anthropometric
+7,TRUE,TRUE,biacromial width,biacromial width,trunk,anthropometric
+7,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+7,TRUE,TRUE,body mass,body mass,anthropometric,anthropometric
+7,TRUE,TRUE,arm length,arm length,anthropometric,anthropometric
+7,TRUE,TRUE,biacromial width,biacromial width,anthropometric,anthropometric
+8,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+8,TRUE,TRUE,height,height,whole body,anthropometric
+8,TRUE,TRUE,mass arms,arms total mass,upper limb,body composition
+8,TRUE,TRUE,body fat percentage total,body fat percentage,whole body,body composition
+8,TRUE,TRUE,body mass index,body mass index,whole body,body composition
+8,TRUE,TRUE,bone mineral content arms,bone mineral content arms,upper limb,body composition
+8,TRUE,TRUE,bone mineral content head,bone mineral content head,trunk,body composition
+8,TRUE,TRUE,bone mineral content legs,bone mineral content legs,lower limb,body composition
+8,TRUE,TRUE,bone mineral content pelvis,bone mineral content pelvis,trunk,body composition
+8,TRUE,TRUE,bone mineral content ribs,bone mineral content ribs,trunk,body composition
+8,TRUE,TRUE,bone mineral content spine,bone mineral content spine,trunk,body composition
+8,TRUE,TRUE,bone mineral content total,bone mineral content total,whole body,body composition
+8,TRUE,TRUE,bone mineral content trunk,bone mineral content trunk,trunk,body composition
+8,TRUE,TRUE,bone mineral density arms,bone mineral density arms,upper limb,body composition
+8,TRUE,TRUE,bone mineral density head,bone mineral density head,trunk,body composition
+8,TRUE,TRUE,bone mineral density legs,bone mineral density legs,lower limb,body composition
+8,TRUE,TRUE,bone mineral density pelvis,bone mineral density pelvis,trunk,body composition
+8,TRUE,TRUE,bone mineral density ribs,bone mineral density ribs,trunk,body composition
+8,TRUE,TRUE,bone mineral density spine,bone mineral density spine,trunk,body composition
+8,TRUE,TRUE,bone mineral density total,bone mineral density total,whole body,body composition
+8,TRUE,TRUE,bone mineral density trunk,bone mineral density trunk,trunk,body composition
+8,TRUE,TRUE,body fat total,fat mass,whole body,body composition
+8,TRUE,TRUE,body fat trunk,fat mass trunk,trunk,body composition
+8,TRUE,TRUE,lean body tissue total,lean body mass,whole body,body composition
+8,TRUE,TRUE,lean body tissue arms,lean body mass arms,upper limb,body composition
+8,TRUE,TRUE,lean body tissue legs,lean body mass legs,lower limb,body composition
+8,TRUE,TRUE,lean body tissue trunk,lean body mass trunk,trunk,body composition
+8,TRUE,TRUE,mass legs,legs total mass,lower limb,body composition
+8,TRUE,TRUE,body fat percentage legs,lower limb body fat percentage,lower limb,body composition
+8,TRUE,TRUE,body fat legs,lower limb fat mass,lower limb,body composition
+8,TRUE,TRUE,relative lean body tissue,percentage lean body tissue,whole body,body composition
+8,TRUE,TRUE,body fat percentage trunk,trunk body fat percentage,trunk,body composition
+8,TRUE,TRUE,mass trunk,trunk total mass,trunk,body composition
+8,TRUE,TRUE,body fat percentage arms,upper limb boy fat percentage,upper limb,body composition
+8,TRUE,TRUE,body fat arms,upper limb fat mass,upper limb,body composition
+8,TRUE,TRUE,age,age,demographic,demographic
+9,TRUE,TRUE,ankle circumference,ankle circumference,lower limb,anthropometric
+9,TRUE,TRUE,upper limb length,arm length,upper limb,anthropometric
+9,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+9,TRUE,TRUE,calf circumference,calf circumference,lower limb,anthropometric
+9,TRUE,TRUE,lower leg circumference,calf circumference,lower limb,anthropometric
+9,TRUE,TRUE,chest circumference,chest circumference,trunk,anthropometric
+9,TRUE,TRUE,forearm circumference,forearm circumference,upper limb,anthropometric
+9,TRUE,TRUE,height,height,whole body,anthropometric
+9,TRUE,TRUE,hip circumference,hip circumference,trunk,anthropometric
+9,TRUE,TRUE,neck circumference,neck circumference,trunk,anthropometric
+9,TRUE,TRUE,thigh circumference,thigh circumference,lower limb,anthropometric
+9,TRUE,TRUE,thigh circumference,thigh circumference,lower limb,anthropometric
+9,TRUE,TRUE,upper arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric
+9,TRUE,TRUE,upper arm circumference relaxed,upper arm circumference relaxed,upper limb,anthropometric
+9,TRUE,TRUE,waist circumference,waist circumference,trunk,anthropometric
+9,TRUE,TRUE,wrist circumference,wrist circumference,upper limb,anthropometric
+9,TRUE,TRUE,body fat percentage,body fat percentage,whole body,body composition
+9,TRUE,TRUE,lean body mass,lean body mass,whole body,body composition
+9,TRUE,TRUE,lean body mass to height ratio,lean body mass to height ratio,whole body,body composition
+9,TRUE,TRUE,age,age,demographic,demographic
+10,TRUE,TRUE,relative load-mean propulsive velocity relationship,load-velocity relationship,technical,technical
+10,TRUE,TRUE,relative load-mean velocity relationship,load-velocity relationship,technical,technical
+12,TRUE,TRUE,relative load-velocity relationship,load-velocity relationship,technical,technical
+12,TRUE,TRUE,relative load-velocity relationship,load-velocity relationship,technical,technical
+14,TRUE,TRUE,dominant arm length,arm length,upper limb,anthropometric
+14,TRUE,TRUE,non-dominant arm length,arm length,upper limb,anthropometric
+14,TRUE,TRUE,biacromial width,biacromial width,trunk,anthropometric
+14,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+14,TRUE,TRUE,dominant forearm length,forearm length,upper limb,anthropometric
+14,TRUE,TRUE,non-dominant forearm length,forearm length,upper limb,anthropometric
+14,TRUE,TRUE,height,height,whole body,anthropometric
+14,TRUE,TRUE,hip circumference,hip circumference,trunk,anthropometric
+14,TRUE,TRUE,dominant arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric
+14,TRUE,TRUE,non-dominant arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric
+14,TRUE,TRUE,dominant arm circumference relaxed,upper arm circumference relaxed,upper limb,anthropometric
+14,TRUE,TRUE,non-dominant arm circumference relaxed,upper arm circumference relaxed,upper limb,anthropometric
+14,TRUE,TRUE,waist circumference,waist circumference,trunk,anthropometric
+14,TRUE,TRUE,body fat percentage,body fat percentage,whole body,body composition
+14,TRUE,TRUE,body mass index,body mass index,whole body,body composition
+14,TRUE,TRUE,body fat (kg),fat mass,whole body,body composition
+14,TRUE,TRUE,lean body mass,lean body mass,whole body,body composition
+14,TRUE,TRUE,age,age,demographic,demographic
+14.1,TRUE,TRUE,arm cross sectional area,arm cross sectional area,upper limb,anthropometric
+14.1,TRUE,TRUE,arm length,arm length,upper limb,anthropometric
+14.1,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+14.1,TRUE,TRUE,height,height,whole body,anthropometric
+14.1,TRUE,TRUE,arm circumference flexed,upper arm circumference flexed,upper limb,anthropometric
+14.1,TRUE,TRUE,body fat percentage,body fat percentage,whole body,body composition
+14.1,TRUE,TRUE,lean body mass,lean body mass,whole body,body composition
+14.1,TRUE,TRUE,age,age,demographic,demographic
+17,TRUE,TRUE,mean barbell propulsive velocity measured during sub-max loads,barbell mean propulsive velocity,technical,technical
+19,TRUE,TRUE,fat free mass,fat free mass,body composition,body composition
+19,TRUE,TRUE,height,height,body composition,body composition
+19,TRUE,TRUE,fat mass,fat mass,body composition,body composition
+19,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+19,TRUE,TRUE,height,height,whole body,anthropometric
+19,TRUE,TRUE,body fat percentage,body fat percentage,whole body,body composition
+19,TRUE,TRUE,fat free mass,fat free mass,whole body,body composition
+19,TRUE,TRUE,fat mass,fat mass,whole body,body composition
+19,TRUE,TRUE,lean mass,lean body mass,whole body,body composition
+19,TRUE,TRUE,age,age,demographic,demographic
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+20,TRUE,TRUE,sex,sex,demographic,demographic
+21,TRUE,TRUE,impairment type,impairment type,disability,disability
+21,TRUE,TRUE,impairment type,impairment type,disability,disability
+21,TRUE,TRUE,impairment type,impairment type,disability,disability
+21,TRUE,TRUE,impairment type,impairment type,disability,disability
+21,TRUE,TRUE,impairment type,impairment type,disability,disability
+22,TRUE,TRUE,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical
+23,TRUE,TRUE,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical
+23,TRUE,TRUE,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical
+23,TRUE,TRUE,barbell mean propulsive velocity,barbell mean propulsive velocity,technical,technical
+23,TRUE,TRUE,barbell mean velocity,barbell mean velocity,technical,technical
+23,TRUE,TRUE,barbell mean velocity,barbell mean velocity,technical,technical
+23,TRUE,TRUE,barbell mean velocity,barbell mean velocity,technical,technical
+23,TRUE,TRUE,barbell peak velocity,barbell peak velocity,technical,technical
+23,TRUE,TRUE,barbell peak velocity,barbell peak velocity,technical,technical
+23,TRUE,TRUE,barbell peak velocity,barbell peak velocity,technical,technical
+24,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+24,TRUE,TRUE,height,height,whole body,anthropometric
+24,TRUE,TRUE,body mass index,body mass index,whole body,body composition
+24,TRUE,TRUE,age,age,demographic,demographic
+26,TRUE,TRUE,appendicular fat free mass index,appendicular fat free mass index,body composition,body composition
+26,TRUE,TRUE,arm cross sectional area,arm cross sectional area,anthropometric,anthropometric
+26,TRUE,TRUE,upper limb fat free mass,upper limb fat free mass,body composition,body composition
+26,TRUE,TRUE,whole body fat free mass,whole body fat free mass,body composition,body composition
+26,TRUE,TRUE,arm cross sectional area,arm cross sectional area,upper limb,anthropometric
+26,TRUE,TRUE,appendicular fat free mass,appendicular lean body mass,trunk,body composition
+26,TRUE,TRUE,upper limb fat free mass,upper limb fat free mass,upper limb,body composition
+26,TRUE,TRUE,whole body fat free mass,whole body fat free mass,whole body,body composition
+29,TRUE,TRUE,movement pattern,movement pattern,technical,technical
+30,TRUE,TRUE,average velocity,load-velocity relationship,technical,technical
+30,TRUE,TRUE,sex,sex,demographic,demographic
+31,TRUE,TRUE,mean velocity,barbell mean velocity,technical,technical
+31,TRUE,TRUE,mean velocity,load-velocity relationship,technical,technical
+31,TRUE,TRUE,total arm length,total arm length,anthropometric,anthropometric
+32,TRUE,TRUE,arm length:height ratio,arm length:height ratio,upper limb,anthropometric
+32,TRUE,TRUE,arm span,arm span,upper limb,anthropometric
+32,TRUE,TRUE,forearm:upperarm length ratio,brachial index,upper limb,anthropometric
+32,TRUE,TRUE,chest circumference,chest circumference,trunk,anthropometric
+32,TRUE,TRUE,chest circumference:height ratio,chest circumference:height ratio,trunk,anthropometric
+32,TRUE,TRUE,anterior-posterior chest depth,chest depth,trunk,anthropometric
+32,TRUE,TRUE,forearm circumference,forearm circumference,upper limb,anthropometric
+32,TRUE,TRUE,iliac:acromial width ratio,iliac:acromial width ratio,trunk,anthropometric
+32,TRUE,TRUE,triceps cross sectional area,triceps cross sectional area,upper limb,anthropometric
+32,TRUE,TRUE,triceps fascicle length,triceps fascicle length,upper limb,anthropometric
+32,TRUE,TRUE,triceps pennation angle ,triceps pennation angle,upper limb,anthropometric
+32,TRUE,TRUE,flexed upper arm circumference,upper arm circumference flexed,upper limb,anthropometric
+32,TRUE,TRUE,upper arm circumference,upper arm circumference flexed,upper limb,anthropometric
+32,TRUE,TRUE,bone mass bioimpedance,bone mass,whole body,body composition
+32,TRUE,TRUE,fat mass bioimpedance,fat mass,whole body,body composition
+32,TRUE,TRUE,fat mass ultrasound,fat mass,whole body,body composition
+32,TRUE,TRUE,lean body mass bioimpedance,lean body mass,whole body,body composition
+32,TRUE,TRUE,lean body mass ultrasound,lean body mass,whole body,body composition
+32,TRUE,TRUE,anterior deltoid emg activity during isometric bench press MVC,deltoid emg during bench,upper limb,neuromuscular
+32,TRUE,TRUE,latissimus dorsi emg activity during bench press MVC,latissimus dorsi emg during bench,upper limb,neuromuscular
+32,TRUE,TRUE,pec major emg activity during isometric bench press MVC,pec major emg during bench,upper limb,neuromuscular
+32,TRUE,TRUE,triceps emg activity during isometric bench press MVC,triceps emg durign bench,upper limb,neuromuscular
+32,TRUE,TRUE,voluntary activation triceps,triceps voluntary activation,upper limb,neuromuscular
+32,TRUE,TRUE,elbow flexion angle at sticking point,elbow flexion angle at sticking point,technical,technical
+32,TRUE,TRUE,ground force by the feet per kg body mass,foot grf during bench,technical,technical
+32,TRUE,TRUE,horizontal bar displacement,horizontal bar displacement,technical,technical
+32,TRUE,TRUE,shoulder horizontal adduction angle at sticking point,horizontal shoulder adduction angle sticking point,technical,technical
+32,TRUE,TRUE,lumbar arch height,lumbar arch height,technical,technical
+32,TRUE,TRUE,shoulder abduction angle at sticking point,shoulder abduction angle sticking point,technical,technical
+32,TRUE,TRUE,shoulder flexion angle at sticking point,shoulder flexion angle sticking point,technical,technical
+32,TRUE,TRUE,vertical bar displacement,vertical bar displacement,technical,technical
+33,TRUE,TRUE,mean propulsive velocity recorded during sub max loads in IWBF < 2.5,barbell mean propulsive velocity,technical,technical
+33,TRUE,TRUE,mean propulsive velocity recorded during sub max loads in IWBF > 2.5,barbell mean propulsive velocity,technical,technical
+33,TRUE,TRUE,mean propulsive velocity recorded during sub max loads,barbell mean propulsive velocity,technical,technical
+35,TRUE,TRUE,arm cross sectional area,arm cross sectional area,upper limb,anthropometric
+35,TRUE,TRUE,chest circumference,chest circumference,trunk,anthropometric
+35,TRUE,TRUE,flexed arm circumference,upper arm circumference flexed,upper limb,anthropometric
+35,TRUE,TRUE,abdominal skinfold,abdominal skinfold,trunk,body composition
+35,TRUE,TRUE,body fat percentage,body fat percentage,whole body,body composition
+35,TRUE,TRUE,fat free mass,fat free mass,whole body,body composition
+35,TRUE,TRUE,subscapula skinfold,subscapula skinfold,trunk,body composition
+35,TRUE,TRUE,sum of skinfolds,sum of skinfolds,whole body,body composition
+35,TRUE,TRUE,triceps skinfold,triceps skinfold,upper limb,body composition
+36,TRUE,TRUE,age,age,demographic,demographic
+36,TRUE,TRUE,age,age,demographic,demographic
+37,TRUE,TRUE,age,age,demographic,demographic
+38,TRUE,TRUE,impairment type,impairment type,disability,disability
+39,TRUE,TRUE,biacromial breadth,biacromial width,trunk,anthropometric
+39,TRUE,TRUE,biacromial breadth,biacromial width,trunk,anthropometric
+39,TRUE,TRUE,biacromial breadth,biacromial width,trunk,anthropometric
+39,TRUE,TRUE,biacromial breadth,biacromial width,trunk,anthropometric
+39,TRUE,TRUE,biacromial breadth,biacromial width,trunk,anthropometric
+41,TRUE,TRUE,body mass,body mass,whole body,anthropometric
+41,TRUE,TRUE,calf girth,calf circumference,lower limb,anthropometric
+41,TRUE,TRUE,chest girth,chest circumference,trunk,anthropometric
+41,TRUE,TRUE,height,height,whole body,anthropometric
+41,TRUE,TRUE,gluteal girth,hip circumference,trunk,anthropometric
+41,TRUE,TRUE,midthigh girth,thigh circumference,lower limb,anthropometric
+41,TRUE,TRUE,flexed arm girth,upper arm circumference flexed,upper limb,anthropometric
+41,TRUE,TRUE,body fat percentage,body fat percentage,whole body,body composition
+41,TRUE,TRUE,fat free mass,fat free mass,whole body,body composition
+41,TRUE,TRUE,muscle mass,skeletal muscle mass,whole body,body composition
+42,TRUE,TRUE,absolute skeletal muscle mass,skeletal muscle mass,whole body,body composition
+42,TRUE,TRUE,skeletal muscle mass to height ratio,skeletal muscle mass to height ratio,whole body,body composition
+43,TRUE,TRUE,triceps fascicle length,triceps fascicle length,upper limb,anthropometric
+43,TRUE,TRUE,triceps muscle thickness,triceps muscle thickness,upper limb,anthropometric
+43,TRUE,TRUE,triceps fascicle angle,triceps pennation angle,upper limb,anthropometric
+43,TRUE,TRUE,seated isometric shoulder press rfd 100ms,shoulder press rate of force development,upper limb,neuromuscular
+43,TRUE,TRUE,seated isometric shoulder press rfd 150ms,shoulder press rate of force development,upper limb,neuromuscular
+43,TRUE,TRUE,seated isometric shoulder press rfd 200ms,shoulder press rate of force development,upper limb,neuromuscular
+43,TRUE,TRUE,seated isometric shoulder press rfd 250ms,shoulder press rate of force development,upper limb,neuromuscular
+43,TRUE,TRUE,seated isometric shoulder press rfd 30ms,shoulder press rate of force development,upper limb,neuromuscular
+43,TRUE,TRUE,seated isometric shoulder press rfd 50ms,shoulder press rate of force development,upper limb,neuromuscular
+43,TRUE,TRUE,seated isometric shoulder press rfd 80ms,shoulder press rate of force development,upper limb,neuromuscular
+44,TRUE,TRUE,range of motion,impairment type,disability,disability
+44,TRUE,TRUE,range of motion,impairment type,disability,disability
+44,TRUE,TRUE,range of motion,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,impairment severity,impairment type,disability,disability
+44,TRUE,TRUE,muscle power impairment,impairment type,disability,disability
+44,TRUE,TRUE,muscle power impairment,impairment type,disability,disability
+44,TRUE,TRUE,muscle power impairment,impairment type,disability,disability
+44,TRUE,TRUE,muscle power impairment,impairment type,disability,disability
+44,TRUE,TRUE,muscle power impairment,impairment type,disability,disability
+44,TRUE,TRUE,muscle power impairment,impairment type,disability,disability
+44,TRUE,TRUE,impairment type,impairment type,disability,disability
+44,TRUE,TRUE,impairment type,impairment type,disability,disability
+44,TRUE,TRUE,sex,sex,demographic,demographic
+45,TRUE,TRUE,grip width,grip width,technical,technical
